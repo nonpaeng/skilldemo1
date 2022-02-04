@@ -7,6 +7,6 @@ import org.junit.*;
 public class SkillDemoTester {
     @Test
     public void getStringTester() {
-        assertEquals(SkillDemo.getString(1), "CSE");
+        assertEquals(SkillDemo.getString(1), "15L");
     }
 }
